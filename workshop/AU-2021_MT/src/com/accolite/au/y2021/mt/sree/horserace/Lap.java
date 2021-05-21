@@ -1,4 +1,4 @@
-package com.accolite.au.y2021.mt.horserace;
+package com.accolite.au.y2021.mt.sree.horserace;
 
 public class Lap {
 	private final int number;

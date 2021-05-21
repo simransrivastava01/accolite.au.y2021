@@ -1,4 +1,4 @@
-package com.accolite.au.y2021.mt.horserace;
+package com.accolite.au.y2021.mt.sree.horserace;
 
 import java.util.List;
 import java.util.Random;
