@@ -5,6 +5,11 @@ import static com.accolite.au.y2021.mt.common.ThreadUtils.sleepForSeconds;
 import java.util.concurrent.Callable;
 import java.util.concurrent.CountDownLatch;
 
+/**
+ * 
+ * @author sree
+ *
+ */
 public class Horse implements Callable<RaceStats> {
 
 	private final String name;

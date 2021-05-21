@@ -1,5 +1,10 @@
 package com.accolite.au.y2021.mt.sree.horserace;
 
+/**
+ * 
+ * @author sree
+ *
+ */
 public class RaceConfig {
 	
 	public RaceConfig(Long raceTrackLengthInMeters, Long gearShiftIntervalSeconds, int noOfHorces) {

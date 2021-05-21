@@ -3,6 +3,11 @@ package com.accolite.au.y2021.mt.sree.horserace;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author sree
+ *
+ */
 public class RaceStats {
 	
 	public RaceStats(String horseId) {
