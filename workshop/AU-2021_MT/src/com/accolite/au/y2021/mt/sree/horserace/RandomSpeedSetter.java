@@ -4,6 +4,11 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.Callable;
 
+/**
+ * 
+ * @author sree
+ *
+ */
 public class RandomSpeedSetter implements Callable<Void> {
 	
 	public RandomSpeedSetter(Object lock, List<Horse> horses) {
