@@ -8,7 +8,8 @@ public enum Score {
 	Mohit(50, "PENDING_FINAL"),
 	Vikram(65, "PENDING_FINAL"),
 	Adishi(40, "PENDING_FINAL"),
-	Paras(60, "PENDING_FINAL");
+	Paras(60, "PENDING_FINAL"),
+	priyanshu(45, "PENDING_FINAL");
 	
 	private Score(double score, String status) {
 		this.score = score;
